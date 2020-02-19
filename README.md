@@ -58,6 +58,18 @@
 * What can you do in the Notification & actions Settings window?
   * ???
 
+
+### 11.1.3.4 Lab - Work with Task Manager
+
+
+
+### 11.1.4.11 Lab - Working with File Explorer
+* What happened with Folder1 and Folder2 on the Desktop?
+  * ???
+* What is the file extension for the text document?
+  * ???
+
+
  
  
  
