@@ -42,3 +42,27 @@
   * ???
 * What tabs are listed in the ITE Test Document Properties window
   * ???
+
+
+### 11.1.2.10 Lab - Explore the Windows Desktop
+* List some of the icons that are on the Desktop
+  * ???
+* What type of information is available on the Desktop and Taskbar?
+  * ???
+* Name a few applications listed in the Start Menu.
+  * ???
+* What are the available options in the Taskbar settings?
+  * ???
+* What are the available options in the Task View settings?
+  * ???
+* What can you do in the Notification & actions Settings window?
+  * ???
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
