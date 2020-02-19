@@ -26,3 +26,19 @@
 
 
 ### 3.1.2.7 Lab - Install Third-Party Software in Windows
+
+* What is the default installation location for Packet Tracer?
+  * ???
+* Why does Microsoft recommend using Uninstall or change a program to remove an installed application?
+  * ???
+ 
+ 
+### 10.2.1.8 Lab - Create a Partition in Windows
+* What type of File System is used on the NEW VOLUME (I:)?
+  * ???
+* How much Free Space is shown?
+  * ???
+* List the tabs found in the NEW VOLUME (I): Properties window?
+  * ???
+* What tabs are listed in the ITE Test Document Properties window
+  * ???
