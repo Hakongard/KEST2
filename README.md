@@ -6,21 +6,21 @@
 * What options are available in the Driver tab:
   * Driver Detail, Update driver, Roll back driver, disable device og uninstall device.
 * What else can you do to improve your experience?
-  * ???
+  * Change backround.
 
 
 ### 3.1.2.5 Lab - Search for BIOS or UEFI Firmware Updates
 
 * Who is the manufacturer of the BIOS?
-  * ???
+  * Microsoft Management
 * Which BIOS version is installed in your computer?
-  * ???
+  * 10.0.18362.1
 * What is the current BIOS version available for the motherboard?
   * ???
 * What features, if any, have been added to the new BIOS version?
-  * ???
+  * same old
 * What changes, if any, have been made to the new BIOS version to fix problems?
-  * ???
+  * same
 * What are the instructions to update the new BIOS version?
   * ???
 
