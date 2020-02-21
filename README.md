@@ -22,7 +22,7 @@
 * What changes, if any, have been made to the new BIOS version to fix problems?
   * same old
 * What are the instructions to update the new BIOS version?
-  * ???
+  * You must always use the BIOS update made availible by your motherboard manufacturer.
 
 
 ### 3.1.2.7 Lab - Install Third-Party Software in Windows
