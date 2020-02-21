@@ -16,11 +16,11 @@
 * Which BIOS version is installed in your computer?
   * 10.0.18362.1
 * What is the current BIOS version available for the motherboard?
-  * ???
+  * 4QCN23WW(V1.04)
 * What features, if any, have been added to the new BIOS version?
   * same old
 * What changes, if any, have been made to the new BIOS version to fix problems?
-  * same
+  * same old
 * What are the instructions to update the new BIOS version?
   * ???
 
