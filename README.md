@@ -46,17 +46,17 @@
 
 ### 11.1.2.10 Lab - Explore the Windows Desktop
 * List some of the icons that are on the Desktop
-  * ???
+  * Recycle bin, Google chrome, Microsoft Teams. 
 * What type of information is available on the Desktop and Taskbar?
-  * ???
+  * Apps
 * Name a few applications listed in the Start Menu.
-  * ???
+  * File Explorer, Word, 3D Wiewer
 * What are the available options in the Taskbar settings?
-  * ???
+  * Lock Taskbar, Taskbar location
 * What are the available options in the Task View settings?
-  * ???
+  * Make new Desktop.
 * What can you do in the Notification & actions Settings window?
-  * ???
+  * Velja hvaða forrit geta sent mér notifacation.
 
 
 ### 11.1.3.4 Lab - Work with Task Manager
