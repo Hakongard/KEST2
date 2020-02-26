@@ -30,7 +30,7 @@
 * What is the default installation location for Packet Tracer?
   * C:\Program Files\Cisco Packet Tracer 7.3.0
 * Why does Microsoft recommend using Uninstall or change a program to remove an installed application?
-  * Why does Microsoft recommend using Uninstall or change a program to remove an installed application?
+  * There are some applications without uninstall icons that come with them. Add/ Remove programs gives you more control over your computer, allowing many applications to be changed or removed from your system. You can also remove updates. I personally recommend this as programs which have faults (like MSN Plus) which keep causing the computer to crash can be repaired.
  
  
 ### 10.2.1.8 Lab - Create a Partition in Windows
