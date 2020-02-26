@@ -28,9 +28,9 @@
 ### 3.1.2.7 Lab - Install Third-Party Software in Windows
 
 * What is the default installation location for Packet Tracer?
-  * ???
+  * C:\Program Files\Cisco Packet Tracer 7.3.0
 * Why does Microsoft recommend using Uninstall or change a program to remove an installed application?
-  * ???
+  * Why does Microsoft recommend using Uninstall or change a program to remove an installed application?
  
  
 ### 10.2.1.8 Lab - Create a Partition in Windows
