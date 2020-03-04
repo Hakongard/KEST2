@@ -67,7 +67,24 @@
 * What happened with Folder1 and Folder2 on the Desktop?
   * Folder2 er í Folder1
 
-
+### 11.2.2.3 Lab - User Accounts
+* What can a user do with a limited account?
+ * ?
+* What limitations does this type of an account have?
+ * ?
+* What information is listed for the new account?
+ *
+* What is the advantage of having most users work within a Standard user account?
+ * ?
+* For this lab, select Delete Files. What are the other options? When would you choose the other options?
+ * ?
+* Why is it important to protect all accounts with strong passwords?
+ * ?
+* Why would you create a user with Standard privileges?
+ * ?
+* In what type of situation would an IT administrator delete a user account and choose to keep the files of that
+user account instead of deleting them?
+ * ?
 
  
  
