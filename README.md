@@ -65,9 +65,8 @@
 
 ### 11.1.4.11 Lab - Working with File Explorer
 * What happened with Folder1 and Folder2 on the Desktop?
-  * ???
-* What is the file extension for the text document?
-  * ???
+  * Folder2 er í Folder1
+
 
 
  
