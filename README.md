@@ -91,6 +91,25 @@ user account instead of deleting them?
  * 1667 MB
 * Why would you ever change the default virtual memory page file settings in Windows?
  * Ef forrit þarf meira RAM en það er að fá. Þá er hægt að neiða minnið á forritið.
+ 
+ 
+### 11.2.6.2 Lab - Use Device Manager
+* What information is listed in the Device Manager window? Why would you use it?
+ * Software Device, System Device og margt fleira.
+* Browse through the menus displayed at the top of the Device Manager window. How would you install
+driver software for an older device that may not be automatically recognized by the Windows operating
+system?
+ * Þú myndir nota "Add Legacy Harware" undir Action.
+* What additional information does Driver Details provide?
+ * Provider, File Version, Copyright, Digital Designer.
+* What two options do you have for updating the driver?
+ * Browse my computer for driver software,  Search automatically for driver software.
+* What does the Roll Back Driver button do? The Roll Back Driver can be grayed out on your computer,
+why would it be grayed out?
+ * Þetta er svo þú getur komist á gamalt Version. Þetta er grátt því þú hefur engin gömul version.
+* What are the other available options?
+ * Driver details, Uptate Driver, Uninstall Driver, Disable Driver.
+ 
 
  
  
