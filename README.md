@@ -68,23 +68,17 @@
   * Folder2 er í Folder1
 
 ### 11.2.2.3 Lab - User Accounts
-* What can a user do with a limited account?
- * ?
-* What limitations does this type of an account have?
- * ?
-* What information is listed for the new account?
- *
 * What is the advantage of having most users work within a Standard user account?
- * ?
+ * Þá geta þeir ekki gert breytingar sem þeir eiga ekkert að gera þótt það sé óvart eða viljandi.
 * For this lab, select Delete Files. What are the other options? When would you choose the other options?
- * ?
+ * Change the account name, Change the password, Change the account type.
 * Why is it important to protect all accounts with strong passwords?
- * ?
+ * Svo það er erfiðara fyrir aðra að brjótast á Aðganginn okkar.
 * Why would you create a user with Standard privileges?
- * ?
+ * Svo hann geti ekki fiktað í kerfinu
 * In what type of situation would an IT administrator delete a user account and choose to keep the files of that
 user account instead of deleting them?
- * ?
+ * Þegar það er rekið eitthvern en vill ekki eiða vinnunni hans.
 
  
  
