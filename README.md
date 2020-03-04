@@ -79,6 +79,18 @@
 * In what type of situation would an IT administrator delete a user account and choose to keep the files of that
 user account instead of deleting them?
  * Þegar það er rekið eitthvern en vill ekki eiða vinnunni hans.
+ 
+ 
+ 
+### 11.2.5.8 Lab - Manage Virtual Memory
+* What is the current size of the virtual memory (paging file)?
+ * 1408 MB
+* What Drive [Volume Label] contains the paging file?
+ * Local Disk
+* What is the recommended paging file size for all drives?
+ * 1667 MB
+* Why would you ever change the default virtual memory page file settings in Windows?
+ * Ef forrit þarf meira RAM en það er að fá. Þá er hægt að neiða minnið á forritið.
 
  
  
