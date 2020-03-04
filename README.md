@@ -35,13 +35,13 @@
  
 ### 10.2.1.8 Lab - Create a Partition in Windows
 * What type of File System is used on the NEW VOLUME (I:)?
-  * ???
+  * FAT32
 * How much Free Space is shown?
-  * ???
+  * 1.99 GB
 * List the tabs found in the NEW VOLUME (I): Properties window?
-  * ???
+  * ReadyBoost, Previous Versions, Customize, General, Tools, Hardware, Sharing.
 * What tabs are listed in the ITE Test Document Properties window
-  * ???
+  * General, Details, Previous Versions.
 
 
 ### 11.1.2.10 Lab - Explore the Windows Desktop
